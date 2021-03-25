@@ -10,8 +10,6 @@ public class Movement : MonoBehaviour
     public KeyCode up;
     public KeyCode down;
 
-    public GroundCheck groundCheck;
-    //public bool grounded = true;
     public Transform m_groundCheckPoint;
     public float m_groundDistance = 0.4f;
     public LayerMask m_groundMask;
