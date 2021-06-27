@@ -1,2 +1,0 @@
-- Fix bugs in build then build again. Zip the fixed build.
-- Submit Narrative Design v2
